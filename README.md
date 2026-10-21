@@ -4,15 +4,16 @@ Qui CielOS mette da solo i report che produce: il collaudo notturno della VM, le
 «cielos segnala», la visita giornaliera del Medico. Non si scrive a mano: `cielreport` aggiunge il
 file appena c'è, con un commit per report. L'elenco per i programmi è in [`indice.json`](indice.json).
 
-**1** report: 0 del collaudo, 0 segnalazioni, 1 visite del PC.
+**1** report · collaudo: 0 · segnalazioni: 0 · visite del PC: 1.
 
 Ogni report comincia con una scheda (tipo, macchina, data, titolo, esito, versione). Dentro non ci
 sono il nome dell'utente, il nome vero del PC né gli indirizzi MAC.
 
 ## Come si leggono
 
-Dalla cartella dei file, da `cielreport elenco`, oppure dal riquadro di CielOS. I report più vecchi
-restano in `rapporti/AAAA/MM/`: niente si cancella da solo.
+Dalla cartella dei file, da `cielreport elenco`, oppure su GitHub. I report più vecchi restano in
+`rapporti/AAAA/MM/`: niente si cancella da solo. Il progetto è in
+[Surgo-1/CielOS](https://github.com/Surgo-1/CielOS).
 
 ## Ultimi report
 
