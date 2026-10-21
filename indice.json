@@ -1,0 +1,13 @@
+{
+ "aggiornato": "2026-10-21T23:34:55+02:00",
+ "report": [
+  {
+   "tipo": "visita",
+   "macchina": "pc",
+   "data": "2026-10-21T23:34+02:00",
+   "titolo": "Visita del PC del 21/10/2026 23:34",
+   "esito": "2 consigli",
+   "file": "rapporti/2026/10/21-2334-visita-pc.md"
+  }
+ ]
+}
